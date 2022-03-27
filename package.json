@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-store",
-  "version": "2.0.2",
+  "version": "2.0.3-rc1",
   "description": "A minimalistic wrapper around React Native's AsyncStorage.",
   "main": "dist/index.js",
   "scripts": {
@@ -31,8 +31,7 @@
   "author": "Jason Merino",
   "license": "MIT",
   "dependencies": {
-    "lodash.merge": "4.6.2",
-    "@react-native-async-storage/async-storage": "~1.15.0"
+    "lodash.merge": "4.6.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.6",
